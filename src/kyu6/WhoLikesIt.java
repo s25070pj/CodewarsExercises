@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class WhoLikesIt {
     // https://www.codewars.com/kata/5266876b8f4bf2da9b000362/solutions/java
     public static void main(String[] args) {
-        System.out.println(whoLikesIt("chuj", "ci", "w", "dupe"));
+        System.out.println(whoLikesIt("Tim", "Mark", "Stephen"));
     }
 
     public static String whoLikesIt(String... names) {
